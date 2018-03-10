@@ -1,0 +1,33 @@
+{
+    "title": "梦",
+    "description": "梦,谢安朔 著,认识本心是诸佛之正道，若离心求法即名求魔。",
+    "language": "zh-hans",
+    "author": "谢安朔",
+    "links": {
+        "sidebar": {
+            "首页": "https://xieanshuo.gitbooks.io/dream"
+        }
+    },
+    "plugins" : 
+    [
+        "versions-select"
+    ],
+        "pluginsConfig": {
+        "versions": {
+            "options": [
+                {
+                    "value": "https://xieanshuo.gitbooks.io/dream/zh",
+                    "text": "简体中文"
+                },
+                {
+                    "value": "https://xieanshuo.gitbooks.io/dream/tw",
+                    "text": "繁体中文"
+                },
+                {
+                    "value": "https://xieanshuo.gitbooks.io/dream/en",
+                    "text": "English"
+                }
+            ]
+        }
+    }
+}

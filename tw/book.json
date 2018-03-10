@@ -1,0 +1,31 @@
+{
+    "author": "謝安朔",
+    "links": {
+        "sidebar": {
+            "首頁": "https://xieanshuo.gitbooks.io/dream"
+        }
+    },
+    "plugins" : 
+    [
+
+        "versions-select"
+    ],
+        "pluginsConfig": {
+        "versions": {
+            "options": [
+                {
+                    "value": "https://xieanshuo.gitbooks.io/dream/tw",
+                    "text": "繁體中文"
+                },
+                {
+                    "value": "https://xieanshuo.gitbooks.io/dream/zh",
+                    "text": "简体中文"
+                },
+                {
+                    "value": "https://xieanshuo.gitbooks.io/dream/en",
+                    "text": "English"
+                }
+            ]
+        }
+    } 
+}

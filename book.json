@@ -1,0 +1,31 @@
+{ 
+    "title": "梦",
+    "description": "梦,谢安朔 著,认识本心是诸佛之正道，若离心求法即名求魔。",
+    "language": "zh-hans",
+    "plugins" : 
+    [
+        "theme-comscore",
+        "todo",
+        "search-pro",
+        "toc",
+        "versions-select",
+        "anchor-navigation-ex",
+        "splitter",     
+        "audio_image"
+    ],
+    "pluginsConfig": 
+    {
+        "sharing": {
+            "weibo": true,
+            "facebook": true,
+            "twitter": true,
+            "google": true
+        },
+        "search-pro": {
+            "cutWordLib": "nodejieba"
+        },
+        "chart": {
+            "type": "highcharts"
+        }
+    }
+}

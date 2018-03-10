@@ -1,0 +1,30 @@
+{
+    "author": "Anshuo Xie",
+    "links": {
+        "sidebar": {
+            "Home": "https://xieanshuo.gitbooks.io/dream"
+        }
+    },
+    "plugins" : 
+    [
+        "versions"
+    ],
+        "pluginsConfig": {
+        "versions": {
+            "options": [
+                {
+                    "value": "https://xieanshuo.gitbooks.io/dream/en",
+                    "text": "English"
+                },
+                {
+                    "value": "https://xieanshuo.gitbooks.io/dream/zh",
+                    "text": "简体中文"
+                },
+                {
+                    "value": "https://xieanshuo.gitbooks.io/dream/tw",
+                    "text": "繁體中文"
+                }
+            ]
+        }
+    }
+}
