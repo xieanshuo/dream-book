@@ -7,7 +7,7 @@
 
 --- 
 
-{% aimg audiocontrols=""%}../video/yuan.jpg,http://k003.kiwi6.com/hotlink/7mh2l30et6/201807_-_.mp3{% endaimg %}
+{% aimg audiocontrols=""%}../video/bukeshuo.jpg,http://k003.kiwi6.com/hotlink/7mh2l30et6/201807_-_.mp3{% endaimg %}
 
 
 <br />

@@ -6,7 +6,7 @@
 
 ---
 
-{% aimg audiocontrols=""%}../video/yuan.jpg,http://k003.kiwi6.com/hotlink/la93tk8bej/201803_-_.mp3{% endaimg %}
+{% aimg audiocontrols=""%}../video/chanxiu.jpg,http://k003.kiwi6.com/hotlink/la93tk8bej/201803_-_.mp3{% endaimg %}
 
 
 保持自然舒适的坐姿，单盘、双盘都可以。
