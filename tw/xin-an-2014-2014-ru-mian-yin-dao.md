@@ -8,7 +8,7 @@
 ---
 
 
-{% aimg audiocontrols=""%}../video/yuan.jpg,http://k003.kiwi6.com/hotlink/50vifvdpmj/-_2018_7_.mp3{% endaimg %}
+{% aimg audiocontrols=""%}../video/xinan.jpg,http://k003.kiwi6.com/hotlink/50vifvdpmj/-_2018_7_.mp3{% endaimg %}
 
 
 你是安全的，你躺在如來的懷中。
