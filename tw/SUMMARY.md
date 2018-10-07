@@ -7,6 +7,7 @@
 * [夢](002.md)
 * [元](yuan.md)
 * [不可說](bu-ke-shuo.md)
+* [接引——禪修引導](jie-yin-2014-2014-chan-xiu-yin-dao.md)
 * [《夢》的緣起](003.md)
 * [以欲勾牽，漸入聖道](004.md)
 * [關於作者](about.md)
